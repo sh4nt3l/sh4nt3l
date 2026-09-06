@@ -2,10 +2,10 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="https://tenor.com/kR6UDCXNEY.gif" width="300" />
+  <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
 </p>
 
-> *"Hoje você codou 1h. Ainda é pouco. Quero ver SANGUE!"*
+> *"A linguagem do dia: Python. Boa escolha. Mas pode ser melhor."*
 
 ---
 
@@ -39,7 +39,7 @@ E Bunny NUNCA se cansa."
 
 <div align="center">
   <sub>
-    🐰 *Última caça: 05/09/2026, 08:33:37* <br>
+    🐰 *Última caça: 06/09/2026, 08:53:26* <br>
     *Bunny está sempre vigiando. 👁️‍🗨️*
   </sub>
 </div>
