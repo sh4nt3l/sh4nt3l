@@ -2,7 +2,7 @@
 # 🐰 Bunny Hunter
 
 <p align="center">
-  <img src="https://tenor.com/7D0fdITsLz.gif" width="300" />
+  <img src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="300" />
 </p>
 
 > *"A linguagem do dia: Python. Boa escolha. Mas pode ser melhor."*
