@@ -21,7 +21,7 @@ function generateReadme(stats) {
   const gif = gifs[Math.floor(Math.random() * gifs.length)];
 
   return `
-# 🐰 Bunny Hunter
+# Butterfly Hunter !
 
 <p align="center">
   <img src="${gif}" width="300" />
